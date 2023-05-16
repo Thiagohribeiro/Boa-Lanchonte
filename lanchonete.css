@@ -1,0 +1,5 @@
+#descri p,#menu-h li a{color:#fff;display:inline-block;text-decoration:none}body{background-image:url('https://img.freepik.com/fotos-premium /textura-grunge-em-um-fundo-cinza_53876-149686.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover}.produto-container{display:flex;width: 100%;justify-content:space-around}@media screen and (max-width:768px){.produto-container{width:100%;flex-direction:column}}h3{border:solid #000}#descri ,#menu-h{list-style:none;padding:0;background-color:#000}#menu-h li{display:inline}#menu-h li a{padding:20px}#menu-h li a :hover{background-color:#0175bd}#descri p{padding:10px}div,h1,h3,nav,table{text-align:center}
+
+.body{
+  margin: 0;
+}
